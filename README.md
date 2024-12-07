@@ -5,7 +5,9 @@ MiniGit is a simplified distributed source control system inspired by Git. This 
 ## Features
 ## Core Features
 Repository Initialization: Create and initialize a new repository or open an existing one.
+
 Staging and Committing: Stage files and commit changes with messages.
+
 Branch Management: Create new branches, switch between branches, and view the current branch.
 Merging: Merge branches while detecting potential conflicts (with no resolution functionality).
 Viewing Commit History: View the history of commits for the current branch.
@@ -89,8 +91,8 @@ Tag Viewing: Enhance the view-tags feature to display tags with associated commi
 Troubleshooting
 File Path Errors: If you encounter InvalidPathException, ensure that the paths entered are properly formatted and relative to the repository directory.
 Unknown Operations: Verify that the input command matches the available options and is correctly spelled.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+![image](https://github.com/user-attachments/assets/efb60fab-f90f-4efb-8d21-a035b39d2683)
+
 
 ### Acknowledgements
 Inspired by Git and version control systems.
